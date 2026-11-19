@@ -1,0 +1,4 @@
+# Core engine needs only these two scientific libraries.
+# Data fetching and charting use the Python standard library alone.
+numpy>=1.21
+scipy>=1.7
